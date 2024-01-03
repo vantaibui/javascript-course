@@ -13,6 +13,10 @@ teacherLeanring(); // A4
 
 =======
 teacherLeanring(); // B1
+<<<<<<< HEAD
 >>>>>>> be75389 (B1)
+=======
+teacherLeanring(); // B2
+>>>>>>> 08f17e6 (B2)
 
 
