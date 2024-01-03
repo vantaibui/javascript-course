@@ -6,5 +6,6 @@ const teacherLeanring = function() {
 }
 
 teacherLeanring(); // A1
+teacherLeanring(); // A2
 
 
